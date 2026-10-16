@@ -1,0 +1,11 @@
+{
+  "name": "retro-kanban-app",
+  "version": "0.1.0",
+  "private": true,
+  "description": "retro-kanban ödev panosunun telefon uygulaması (PWA)",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "sync-issues": "scripts/sync-issues.sh"
+  }
+}
